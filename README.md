@@ -1,5 +1,5 @@
-# portfolio-django
-> Create your own portfolio using Django and host on Azure Virtual Machine
+# Portfolio-Website
+> Create your own portfolio using Django.
 ## 
 ## Steps
 - install Python using 'https://www.python.org/'
