@@ -10,7 +10,6 @@ C:> python -m venv my_lab_2
 C:> my_lab_2\Scripts\activate
 C:> cd Desktop
 C:> python -m pip install django pillow python-git
-C:> git clone https://github.com/abhi-bhatra/portfolio-django.git
 C:> cd portfolio-django
 ```
 - Open portfolio-django folder
